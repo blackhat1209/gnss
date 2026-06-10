@@ -1,1 +1,1 @@
-GNSS Tracking using LoRa
+GNSS
